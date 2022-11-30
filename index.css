@@ -1,0 +1,209 @@
+*{
+  margin: 0;
+  padding: 10;
+  
+}
+
+.fruits{
+   background-color:pink;
+   padding:5px 5px 25px 5px;
+   border:5px double black;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+
+.veg{
+   background-color:orange;
+   padding:5px 5px 25px 5px;
+   border:5px double black;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.apple{
+   background-color:#00FFFF	;
+   padding:5px 5px 25px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+ 
+.guava{
+   background-color:#FFFF00;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.mango{
+   background-color:#00FF00	;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.banana{
+   background-color:#A6B1F7;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.orange{
+   background-color:#A6F7EB;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.avocado{
+   background-color:#DAF7A6;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.pine{
+   background-color:#F7C4A6;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.blue{
+   background-color:#008080	;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.dragon{
+   background-color:#800080;
+   padding:5px 5px 5px 5px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.pom{
+   background-color:#980000;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.tomato{
+   background-color:#EE82EE;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.brinjal{
+   background-color:#FFFF00;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+
+.beans{
+   background-color:#40E0D0;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.onion{
+   background-color:#87CEEB;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.chillies{
+   background-color:#48D1AC;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.carrot{
+   background-color:#008080;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.potato{
+   background-color:#6B8E23;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.broccoli{
+   background-color:#C71585;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.lettuce{
+   background-color:#FFA07A;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.cap{
+   background-color:#F08080;
+   padding:8px 8px 8px 8px;
+   border:5px outset gray;
+   text-align:justfy;
+   text-indent:25px;
+}
+.line{
+  border:5px double white;
+  border-radius:10px;
+  
+}
+.btns button{
+  height: 55px;
+  width: 190px;
+  border-radius: 0px;
+  border: none;
+  margin: 5px 10px 5px 95px;
+  border: 5px solid white;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 0 0px;
+  cursor: pointer;
+  outline: none;
+  
+}
+
+.h{
+   color:red;
+   text-decoration-line:underline;
+}
+
+.last{ 
+  color:white;
+  word-spacing:5px;
+  text-align:center;
+}
+ 
+
+
+
